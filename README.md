@@ -1,4 +1,4 @@
-# DolmatovDev NPPES Package
+# Laravel NPPES Package
 
 A modern PHP 8.1+ Laravel package for interacting with the NPPES (National Provider Identifier) Registry API.
 
@@ -147,3 +147,9 @@ This package is open-sourced software licensed under the [MIT license](LICENSE).
 ## Support
 
 For support, please open an issue on GitHub or contact the maintainer.
+
+## Author
+
+**Danila Dolmatov**
+
+- LinkedIn: [Danila Dolmatov](https://www.linkedin.com/in/danila-dolmatov/)
